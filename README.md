@@ -1,3 +1,3 @@
 ## Seasonal_Sales_Python
-To perform Explorartory Data Analysis (EDA) on Seasonal sales to improve customer experience and sales.
+To perform data inspecting, cleaning  on Seasonal sales  and analyze business problems to improve customer experience and sales.
 
